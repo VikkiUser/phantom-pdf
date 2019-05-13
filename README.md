@@ -6,7 +6,7 @@ A Package for generating PDF files using PhantomJS. The package is framework agn
 Notice: This package only ships with the 64-bit Linux version of PhantomJS. If you want to use it with another version you can reference it in the configuration.
 
 ## Installation
-Run `composer require danielboendergaard/phantom-pdf`
+Run `composer require vikki-user/phantom-pdf`
 
 ### Usage
 
